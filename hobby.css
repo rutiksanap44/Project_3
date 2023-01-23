@@ -1,0 +1,27 @@
+header{
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+img{
+    width:100vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 700px;
+    width: 900px;
+
+}
+body{
+    background-color: rgb(125, 236, 236);
+}
+.caption{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
